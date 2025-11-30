@@ -93,64 +93,39 @@ credit-card-fraud-detection/
 │
 ├── notebooks/
 │   └── fraud_detection.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── evaluation.py
-│
-├── images/
-│   └── pr_curve.png
-│
-├── README.md
-└── requirements.txt
+|
+└── README.md
+
 
 ```
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-Step-by-step instructions to run your project.
+1. CLONE THE REPOSITORY
+   https://github.com/kirticode09/credit_card_fraud_detection.git
+   cd credit_card_fraud_detection
 
-```bash
-git clone <repository-url>
-cd project-folder
-```
+2. INSTALL REQUIRED LIBRARIES
+   numpy
+   pandas
+   matplotlib
+   seaborn
+   scikit-learn
 
-Add any installation steps here.
-
----
-
-## ▶️ Usage
-
-Explain how to run or use the project.
+3. RUN THE NOTEBOOK
 
 ---
 
-## 📊 Results / Output
+## Contributing
 
-Add images, graphs, or explanation of results.
-
----
-
-## 🧠 Future Improvements
-
-* Improvement 1
-* Improvement 2
+This is a personal academic project, so contributions are not required.
 
 ---
 
-## 🤝 Contributing
+##  License
 
-Guidelines for contributions.
-
----
-
-## 📜 License
-
-Mention your project license.
+This project is licensed under the MIT License.
 
 ---
-
-Let me know what project this is for, and I can customize everything exactly for your use case!
