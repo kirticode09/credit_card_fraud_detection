@@ -89,14 +89,11 @@ Google Colab / Jupyter Notebook
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 credit-card-fraud-detection/
-│
-├── data/
-│   └── creditcard.csv
-│
+|
 ├── notebooks/
 │   └── fraud_detection.ipynb
 |
