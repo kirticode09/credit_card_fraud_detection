@@ -19,6 +19,12 @@ The performance of both models was evaluated primarily using AUPRC (Area Under t
 **This project demonstrates practical skills in model development, data analysis, and evaluation for real-world fraud detection workflows.**
 ---
 
+## Dataset
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+---
+
 ## Features
 
 The Credit Card Fraud Detection dataset consists of 30 input features and 1 target label.
